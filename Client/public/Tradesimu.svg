@@ -1,0 +1,5 @@
+<!-- Save this as favicon.svg in Client/public/ -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="8" ry="8" fill="#1f2937"></rect>
+  <polyline points="8,48 20,36 32,40 44,24 56,28" fill="none" stroke="#10b981" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></polyline>
+</svg>
